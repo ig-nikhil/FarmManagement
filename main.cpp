@@ -67,6 +67,7 @@
 #include <string.h>
 #include <vector>
 using namespace std;
+#include <vector.h>
 
 class Crop {
 
