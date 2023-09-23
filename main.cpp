@@ -88,7 +88,7 @@ public:
     float potential_revenue;
     potential_revenue = Area * Yield_Per_Acre * Price_Per_Kg;
     // cout << "Potential Revenue = " << potential_revenue << endl;
-    return potential_revenue;
+ 
   }
 
   void display_crop() {
